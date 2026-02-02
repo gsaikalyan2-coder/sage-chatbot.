@@ -59,12 +59,6 @@ git commit -m "Update chatbot UI"
 git push origin main
 GitHub Actions will auto-deploy to Firebase Hosting.
 
-🔗 Live Demo
-Once deployed, your site will be available at:
-
-Code
-https://sage-chatbot.web.app
-(or your custom domain if configured)
 
 📄 License
 This project is licensed under the MIT License.
